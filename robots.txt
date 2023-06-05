@@ -6,7 +6,7 @@ Disallow: /
 User-agent: ia_archiver-web.archive.org 
 Disallow: /
 User-agent: Googlebot
-Disallow: 
+Disallow: /
 User-agent: googlebot-image
 Disallow: /
 User-agent: MSNBot
